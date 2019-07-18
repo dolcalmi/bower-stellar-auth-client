@@ -1,0 +1,15 @@
+{
+  "name": "stellar-auth-client",
+  "homepage": "https://github.com/dolcalmi/bower-stellar-auth-client",
+  "authors": [
+    "Juan P Lopez <dolcalmi@gmail.com>"
+  ],
+  "description": "Client library for Stellar SEP 0010 implementation",
+  "main": "./stellar-auth-client.min.js",
+  "keywords": [
+    "stellar",
+    "sep0010",
+    "auth"
+  ],
+  "license": "MIT"
+}
