@@ -5,7 +5,7 @@
     "Juan P Lopez <dolcalmi@gmail.com>"
   ],
   "description": "Client library for Stellar SEP 0010 implementation",
-  "main": "./stellar-auth-client.min.js",
+  "main": "./stellar-auth-client.js",
   "keywords": [
     "stellar",
     "sep0010",
